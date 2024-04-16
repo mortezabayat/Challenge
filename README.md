@@ -19,3 +19,11 @@ Welcome to the Pagination in Jetpack Compose with Clean Architecture GitHub repo
 - **Navigation Component**: Handles navigation between different screens and components.
 - **Hilt**: A dependency injection library for managing and injecting dependencies.
 - **MVI**: Architecture pattern used to separate concerns and ensure clean and testable code.
+- 
+## Setup and Usage
+
+1. Clone the repository: `git clone https://github.com/mortezabayat/Challenge.git
+2. Open the project in Android Studio.
+3. Build and run the application on an emulator or physical device.
+
+- [**Debug Build**]<https://github.com/mortezabayat/Challenge/blob/main/assets/debug/app-debug.apk>
