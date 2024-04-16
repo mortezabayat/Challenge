@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CatApp</string>
+    <string name="strRetry">Retry</string>
+    <string name="strFetchingDataFromServer">Fetching data from server</string>
+    <string name="strOriginalLanguage">Original Language</string>
+    <string name="spotLight">spotlight</string>
+    <string name="bookMarks">Bookmarks</string>
+</resources>
