@@ -23,4 +23,8 @@ Retrofit: Retrofit is used for making network requests to fetch feed data from a
 Coil: Coil is an image loading library that simplifies the process of displaying and caching images efficiently.
 Navigation Component: The Navigation Component is a powerful library for handling navigation between different screens and components, enhancing user flow and experience.
 Hilt: Hilt is a dependency injection library that simplifies the management and injection of dependencies in our application.
+<<<<<<< HEAD
 <div>
+=======
+<div>
+>>>>>>> origin/main
